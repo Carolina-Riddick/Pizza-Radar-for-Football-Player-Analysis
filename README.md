@@ -21,6 +21,9 @@ Values are filtered to include only defenders, with Trent Alexander-Arnold as th
 3. Numpy
 4. Matplotlib
 5. mplsoccer
+6. Scipy
+7. seaborn
+8. statsbombpy
 
 #### Output
 
